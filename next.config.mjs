@@ -13,7 +13,7 @@ const nextConfig = {
       }/remoteEntry.js`,
     };
     const federatedConfig = {
-      name: "app2",
+      name: "hotels",
 
       remotes: remotes,
       exposes: {
